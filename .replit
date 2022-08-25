@@ -1,0 +1,2 @@
+run = 'npm --prefix ./road-to-lens run dev'
+entrypoint = './road-to-lens/pages/index.jsx'
